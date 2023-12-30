@@ -1,0 +1,115 @@
+
+.nev{
+    height: 7vh;
+    width: 100%;
+    box-shadow: 5px 5px 5px rgba(1, 1, 1, 0.05);
+    display: flex;
+    justify-content: space-between;
+}
+.nev #logo{
+   margin-left: 40px;
+}
+.sec{
+    width: 800px;
+    display: flex;
+    justify-content: space-around;
+}
+.sec #why{
+    text-align: center; 
+}
+#why:hover{
+    transition: 0.02 ease-in;
+    box-shadow: 5px 5px 5px rgba(1, 1, 1,0.05);
+}
+.video{
+
+}
+#text{
+   position: absolute;
+   margin-left: 10px;
+   margin-bottom: 10px;
+bottom: 0px;
+  width: 40vh;
+  text-align: center;
+  border-radius: 50%;
+   background-color: white;
+
+
+   
+}
+
+#vdo{
+height: 800px;
+width: 100%;
+
+object-fit: scale-down;
+}
+.info{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.info #text2{
+    height: 600px;
+    width: 60%;
+}
+.info #p1{
+    height: 600px;
+    
+
+}
+
+.infrastructure{
+    display: flex;
+    justify-content: space-between;
+}
+.infrastructure #p2{
+    
+}
+.academic{
+    display: flex;
+    justify-content: space-between;
+}
+.placement{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.footer{
+height: 200px;
+width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.footer{
+    background-color: #138282;
+    height: 361px;
+    width: 100%;
+}
+.counsling{
+height: 200px;
+    width: 100px;
+   
+    
+}
+
+#d2{
+    height: 50px;
+    width: 100px;
+    
+    bottom: 50px;
+}
+#t1{
+    height: 200px;
+    width: 300px;
+}
+#t3{
+    height: 200px;
+    width: 250px;
+}
